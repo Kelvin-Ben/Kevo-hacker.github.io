@@ -1,0 +1,28 @@
+{
+  "name": "kevo-hacker.github.io",
+  "version": "1.0.0",
+  "description": "- This project involved making my portfolio responsive - I will be adding media queries to the mobile version portfolio so that it is responsive and adaptable to most screens. - These sections of the mobile website include:     1. The toolbar section     2. Works section     3. The About myself     4. The contact section",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevo-hacker/Kevo-hacker.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevo-hacker/Kevo-hacker.github.io/issues"
+  },
+  "homepage": "https://github.com/Kevo-hacker/Kevo-hacker.github.io#readme",
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
+  "dependencies": {
+    "postcss": "^8.4.16"
+  }
+}
