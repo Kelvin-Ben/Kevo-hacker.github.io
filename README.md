@@ -8,6 +8,9 @@
     3. The About myself
     4. The contact section
 
+##Live Demo (if available)
+Check out the demo page here: https://kevo-hacker.github.io/
+
 ## Built With
 
 - HTML/CSS linters
